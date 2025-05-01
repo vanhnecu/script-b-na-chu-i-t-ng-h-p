@@ -2,7 +2,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "BÀNACHUÔI TỔNG HỢP",
+         Title = "BÀNACHUÔI TỔNG HỢP[PREMIUM]",
          Animation = "Youtube: VANHNÈ"
          },
         Key = {
@@ -23,6 +23,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        MinimizeButton({
        Image = "http://www.roblox.com/asset/?id=131511224625130",
        Size = {50, 50},
+       Theme = "White",
        Color = Color3.fromRGB(50, 50, 50),
        Corner = true,
        Stroke = true,
@@ -138,7 +139,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Overgustx2/Main/refs/
   end
   })
     AddButton(Tab1o, {
-     Name = " WZURE",
+     Name = " WAZURE",
     Callback = function()
 	  local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
